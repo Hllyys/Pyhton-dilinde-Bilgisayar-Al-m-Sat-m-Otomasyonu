@@ -1,0 +1,3 @@
+bilgisayar modeli: aa bilgisayar hafizasi: 1452 bilgisayar ram i: 3652 bilgisayar fiyati: 1452
+ bilgisayar modeli: vfv bilgisayar hafizasi: 5 bilgisayar ram i: 333 bilgisayar fiyati: 36456
+ 
